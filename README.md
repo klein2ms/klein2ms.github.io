@@ -2,7 +2,7 @@
 
 ## About me
 
-Like me this is a work in progress.
+Like me this is a work in progress. A little more about me.
 
 ### My Values
 
