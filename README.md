@@ -64,11 +64,11 @@ You have to make the time and put in the work to get better. Remove the barriers
 
 #### Let Them
 
-Your power lies not in controlling others' actions, but in giving permission to show you who they really are. Let them be them.
+Your power lies not in controlling others' actions, but in giving them permission to show you who they really are. Let them be them so that you can do you.
 
 ## Working together
 
-### ❤️:❤️'s (1:1's) are the most important part of my work week
+### [❤️:❤️'s (1:1's)](one-on-ones.md) are the most important part of my work week
 
 * If I do not know the answer to a question I will be honest with you and work to find out on your behalf.
 * If I cannot share the answer to a question I will be honest in sharing that this is something I cannot answer at this time.
@@ -80,9 +80,10 @@ Your power lies not in controlling others' actions, but in giving permission to 
 1. We treat others with kindness and dignity.
 2. We are adults capable of operating in an environment that affords autonomy and agency.
 3. I will not have all the answers. I do not expect you to have all the answers either.
-4. We hold each other accountable for our actions, own up to our mistake, and give each other grace and support when we make them.
+4. We hold each other accountable for our actions, own up to our mistakes, and give each other grace and support when we make them.
 
 ### Communication
 
 * Slack me when you need me
-* 
+
+### Time
