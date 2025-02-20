@@ -72,7 +72,7 @@ In 2023, a team member shared with me that they had brought some of the words an
 ### 🦸‍♂️ My superpowers
 
 * Communicator - I translate so that people (from all areas of the organization) talk with each other, not past each other
-* Storyteller - I illustrate 
+* Storyteller - I illustrate technical complexity as clear visuals creating a narrative that reveals the "why" behind initiatives and help teams see how their work creates impact.
 * Team-builder - I create high performing teams that deliver impact without sacrificing humanity
 * Talent-amplifier - I recognize the potential in others and move them past their imposter syndrome
 
@@ -98,6 +98,7 @@ Your power lies not in controlling others' actions, but in giving them permissio
 
 * If I do not know the answer to a question I will be honest with you and work to find out on your behalf.
 * If I cannot share the answer to a question I will be honest in sharing that this is something I cannot answer at this time.
+* This time is yours to use in a manner that best supports your growth and development.
 
 ### 🎁 Feedback
 
