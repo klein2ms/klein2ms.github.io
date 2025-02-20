@@ -99,6 +99,9 @@ Your power lies not in controlling others' actions, but in giving them permissio
 * If I do not know the answer to a question I will be honest with you and work to find out on your behalf.
 * If I cannot share the answer to a question I will be honest in sharing that this is something I cannot answer at this time.
 * This time is yours to use in a manner that best supports your growth and development.
+* If you're looking for a starting point for talking points check out my [starter template](one-on-ones.md)
+* I want to get to know you as a person, we can talk about more than just work
+* If these become a status update I've failed you
 
 ### 🎁 Feedback
 
@@ -116,3 +119,7 @@ Your power lies not in controlling others' actions, but in giving them permissio
 * Slack me when you need me
 
 ### ⏰ Time
+
+* I work 8 - 4 Eastern Time
+* I reserve my mornings for deep work
+* I keep my calendar up-to-date; if you need a time to chat feel free to book some time with me
