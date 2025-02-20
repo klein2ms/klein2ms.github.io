@@ -53,6 +53,8 @@ In 2023, a team member shared with me that they had brought some of the words an
 
 > How are you going to win this day?!?!
 
+> Easy things should be easy, and hard things should be possible
+
 > Eat the frog
 
 > If you always do what you always did, you will always get what you always got
