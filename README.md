@@ -4,6 +4,16 @@
 
 Like me this is a work in progress.
 
+### 🤙 On Connection...
+
+In every conversation we're either...
+
+1. Seeking outcome - Making decisions, solving problems, or creating plans together
+2. Seeking understanding - Looking for empathy and emotional support
+3. Seeking identity - Exploring who we are, what we value, and what we stand for
+
+If we happen to touch on all three... well that's a full conversation.
+
 ### ⚖️ My Values
 
 1. Integrity - We do what we say and we say what we do
@@ -23,7 +33,7 @@ Like me this is a work in progress.
 * Progress is the best motivator, mattering is the best reward
 * Recognize Achievements, Celebrate Accomplishments
 
-### On Software Development
+###  🏗️ On Software Development
 
 #### On architecture...
 
