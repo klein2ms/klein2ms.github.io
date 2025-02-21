@@ -43,6 +43,8 @@ If we happen to touch on all three... well that's a full conversation.
 
 > Test 100% of the things **that matter**.
 
+> Testing is 20% ensuring it works now, 80% ensuring it still works when things change in the future
+
 A simple testing framework for getting started with what to test:
 
 1. Does it do what you intended it to do?
