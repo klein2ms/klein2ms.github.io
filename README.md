@@ -59,6 +59,18 @@ A simple learning progression for software engineers:
 2. Why do those best practices and patterns exist?
 3. When am I allowed to break them?
 
+#### On technical debt...
+
+> Our goal as software engineers is to deliver business value and make an impact
+
+`technical_debt == business_risk`
+
+A simple framework to assess technical risk.
+
+1. Will not addressing it now prevent us from skating towards the puck?
+2. Will addressing it now enable us to skate towards the puck faster?
+3. Will addressing it now get all of us moving faster towards the puck together?
+
 ### 💎 Seanisms
 
 In 2023, a team member shared with me that they had brought some of the words and phrases I often say into their home sharing them with their family. They lovingly dubbed them "Seanisms" and I so graciously have adopted it here.
@@ -71,7 +83,7 @@ In 2023, a team member shared with me that they had brought some of the words an
 
 > If you always do what you always did, you will always get what you always got
 
-> What you measure is what you get
+> Every system is perfectly designed to get the results that it gets
 
 > What is the goal of the goal?
 
@@ -82,6 +94,10 @@ In 2023, a team member shared with me that they had brought some of the words an
 > Words matter. What you say matters.
 
 > I make suggestions, you make decisions
+
+> Be right longer than you're wrong
+
+> When it comes to winning and losing, we only lose when we choose not to learn when we do not win
 
 ### 🦸‍♂️ My superpowers
 
